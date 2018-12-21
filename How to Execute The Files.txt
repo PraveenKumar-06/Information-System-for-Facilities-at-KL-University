@@ -1,0 +1,8 @@
+1)  Place the two java files in your required folder.
+2) Open the command prompt and navigate to the folder where you have placed the two files.
+3) Now type the following command:- javac -d . Failities.java
+4) It should create a folder named Faility which contains two class files namely Facilities.class and KLU.class
+5) Now type the following command:- javac -d . FacilitiesTest.java
+6) It should create a folder named FacilityKLU which contains a class file namely FacilitiesTest.class
+7) Now type the following command:- java FacilityKLU.FacilitiesTest
+8) Thus the program gets executed in the command prompt 
